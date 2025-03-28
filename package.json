@@ -1,7 +1,7 @@
 {
-  "name": "chrome-extension-boilerplate-react-vite",
-  "version": "0.4.3",
-  "description": "chrome extension boilerplate",
+  "name": "no-distraction-youtube",
+  "version": "0.0.1",
+  "description": "A chrome extention to improve focus",
   "license": "MIT",
   "private": true,
   "sideEffects": false,
