@@ -1,7 +1,7 @@
 {
   "name": "no-distraction-youtube",
   "version": "0.0.1",
-  "description": "A chrome extention to improve focus",
+  "description": "A chrome extension to improve focus",
   "license": "MIT",
   "private": true,
   "sideEffects": false,
